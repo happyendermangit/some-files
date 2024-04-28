@@ -1,2 +1,1 @@
-# dc-src-structure
-note: those files are empty
+just for my configs :)
